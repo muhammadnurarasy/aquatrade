@@ -1,0 +1,15 @@
+site_name: Aquatrade Docs
+site_description: End-to-end shrimp farming + export management system
+site_url: https://muhammadnurarasy.github.io/aquatrade/
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Backend API: backend.md
+  - Frontend: frontend.md
+  - DevOps: devops.md
