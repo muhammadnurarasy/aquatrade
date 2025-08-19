@@ -11,3 +11,4 @@ Aquatrade is a learning + portfolio project that simulates a full team (PM, Back
 - Real, visible portfolio for job applications
 - Practice team workflows (issues, branches, PRs, CI/CD)
 - Reusable base for future entrepreneurial projects
+  
