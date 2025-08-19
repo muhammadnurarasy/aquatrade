@@ -1,6 +1,7 @@
 site_name: Aquatrade Docs
 site_description: End-to-end shrimp farming + export management system
-site_url: https://muhammadnurarasy.github.io/aquatrade/
+site_url: https://aquatrade.readthedocs.io/
+
 theme:
   name: material
   features:
