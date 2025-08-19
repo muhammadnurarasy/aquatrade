@@ -1,5 +1,7 @@
 # aquatrade
-**Docs**: https://<your-username>.github.io/aquatrade/
+**Docs**: https://aquatrade.readthedocs.io/
+
+
 
 A portfolio project simulating a real team (PM, backend, frontend, mobile, DevOps, QA) for **shrimp farming ops + export/trading**.
 
